@@ -1,0 +1,21 @@
+.container{
+    margin-top: 20px;
+}
+
+.card-title{
+    margin-bottom: 40px!important;
+}
+
+.MuiBadge-badge{
+    scale: 1.5;
+}
+
+.card{
+    min-width: 275px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+    justify-content: space-between;
+    padding:10px;
+}
